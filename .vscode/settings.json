@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Roboto",
+        "Sallad",
+        "tailwindcss"
+    ],
+
+    "css.lint.unknownAtRules": "ignore"
+}
